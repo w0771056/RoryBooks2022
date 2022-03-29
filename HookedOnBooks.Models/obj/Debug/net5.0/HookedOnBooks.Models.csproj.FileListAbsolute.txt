@@ -1,0 +1,12 @@
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\bin\Debug\net5.0\HookedOnBooks.Models.deps.json
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\bin\Debug\net5.0\HookedOnBooks.Models.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\bin\Debug\net5.0\ref\HookedOnBooks.Models.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\bin\Debug\net5.0\HookedOnBooks.Models.pdb
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.csproj.AssemblyReference.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.AssemblyInfoInputs.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.AssemblyInfo.cs
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\ref\HookedOnBooks.Models.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.Models\obj\Debug\net5.0\HookedOnBooks.Models.pdb

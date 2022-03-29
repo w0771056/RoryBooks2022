@@ -1,0 +1,12 @@
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\bin\Release\net5.0\HookedOnBooks.Utility.deps.json
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\bin\Release\net5.0\HookedOnBooks.Utility.dll
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\bin\Release\net5.0\ref\HookedOnBooks.Utility.dll
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\bin\Release\net5.0\HookedOnBooks.Utility.pdb
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.AssemblyInfo.cs
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.dll
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\ref\HookedOnBooks.Utility.dll
+C:\Users\roryr\Desktop\bookdsteponeRory0771056\HookedOnBooks.Utility\obj\Release\net5.0\HookedOnBooks.Utility.pdb

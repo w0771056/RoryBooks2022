@@ -1,0 +1,12 @@
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\bin\Debug\net5.0\HookedOnBooks.DataAccess.deps.json
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\bin\Debug\net5.0\HookedOnBooks.DataAccess.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\bin\Debug\net5.0\ref\HookedOnBooks.DataAccess.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\bin\Debug\net5.0\HookedOnBooks.DataAccess.pdb
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.AssemblyInfo.cs
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\ref\HookedOnBooks.DataAccess.dll
+C:\Users\roryr\Desktop\Bookhookerv1\HookedonBooks1.4 - Copy\HookedonBooks1.4\HookedOnBooks.DataAccess\obj\Debug\net5.0\HookedOnBooks.DataAccess.pdb
